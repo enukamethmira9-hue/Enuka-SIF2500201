@@ -12,7 +12,7 @@ print("Menu")
 print("1.Burger – Rs.500")
 print("2.Pizza – Rs.1000")
 print("3.Juice – Rs.300")
-
+print("4.Milk Shake - Rs.800")
 choice = int(input("Choose items (1-3):"))
 quantity = int(input("Enter Quantity:"))
 
